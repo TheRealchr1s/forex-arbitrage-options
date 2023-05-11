@@ -1,2 +1,3 @@
 # forex-arbitrage-options
-Financial modeling in python
+Hi
+I will inevitably declare bankruptcy
